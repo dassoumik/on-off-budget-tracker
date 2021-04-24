@@ -1,3 +1,5 @@
+// const DBFUNCTION = {
+ async function offlineDB(record) {
 let db;
 // create a new db request for a "budget" database.
 const request = indexedDB.open("budget", 1);
@@ -14,6 +16,8 @@ request.onsuccess = function(event) {
   // check if app is online before reading from db
   if (navigator.onLine) {
     checkDatabase();
+  } else {
+    saveRecord(record);
   }
 };
 
@@ -27,7 +31,7 @@ function saveRecord(record) {
 
   // access your pending object store
   const store = transaction.objectStore("pending");
-
+console.log("in db . js");
   // add record to your store with add method.
   store.add(record);
 }
@@ -64,3 +68,7 @@ function checkDatabase() {
 }
   }
   }
+  return;
+}
+// }
+//  module.export = offlineDB();
