@@ -74,6 +74,7 @@ Link to deployed APP in Heroku: <br>
   ## Questions 
   <br>
   Please connnect with me at: <br> contact.soumikdas@gmail.com <br> <br>
-  Please also follow my github at the below link: <br>
- ![](https://img.shields.io/github/followers/dassoumik?style=social)     [Soumik Das](https://github.com/dassoumik)  
+  Please also follow my github at the below link: <br> <br>
+  
+ ![](https://img.shields.io/github/followers/dassoumik?style=social) [Soumik Das](https://github.com/dassoumik)  
 
