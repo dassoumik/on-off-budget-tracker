@@ -40,8 +40,8 @@ The app is deployed in Heroku. Aceess link below.
 
   ## Usage 
   <br>
-  The app can used to share and diccuss ideas,
-with each other.<br>
+  The app can used to track personal incomes and expenses.
+<br>
 
 Link to deployed APP in Heroku: <br>
 [Budget Tracker]( https://sd-budget-tracker.herokuapp.com/)
@@ -51,13 +51,13 @@ Link to deployed APP in Heroku: <br>
   ## License 
   <br>
   This app follow **MIT** licensing rules. Please check below link for more details.
-  You can also refer the LICENSE.txt file in the root folder. <br> <br>
+   <br>
   https://choosealicense.com/licenses/mit/ <br>
   <br>
 
   ## Contributing 
   <br>
-  
+
  - Fork it
  - Create your feature branch
  - Commit your changes
