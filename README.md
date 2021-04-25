@@ -4,7 +4,8 @@
   
 
   ## - [Table of Content](#table-of-content)
-- [Description <br>](#description)
+- [Description](#description)
+- [App Screenshot](#app-screenshot)
 - [Installation <br>](#installation)
 - [Usage <br>](#usage)
 - [License <br>](#license)
@@ -28,6 +29,12 @@ When brought back online:
   * Offline entries should be added to tracker.
   <br>
 
+## App Screenshot 
+<br>
+
+![](./public/icons/app_screenshot.jpg)
+
+
 ## Installation 
   <br>
   Please run npm init --y and npm i. 
@@ -44,7 +51,7 @@ The app is deployed in Heroku. Aceess link below.
 <br>
 
 Link to deployed APP in Heroku: <br>
-[Budget Tracker]( https://sd-budget-tracker.herokuapp.com/)
+[Budget Tracker](https://sd-budget-tracker.herokuapp.com/)
 
   <br>
 
